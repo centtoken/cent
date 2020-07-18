@@ -1,3 +1,5 @@
+# Overview
+
 ![](https://i.imgur.com/comIPd8.png)
 
 # Cent (Token)
@@ -14,9 +16,9 @@ Being backed with DAI, another decentralized cryptocurrency, Cent is a great cho
 
 Cent is completely open source, and can be audited, or modified freely by anyone.
 
-# Disclaimer
+# LEGAL
 
-
+https://github.com/centtoken/cent/blob/master/legal.md
 
 # Responsible, Reliable, Secure, Decentralized Reserves.
 
