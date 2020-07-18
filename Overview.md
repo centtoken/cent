@@ -14,6 +14,10 @@ Being backed with DAI, another decentralized cryptocurrency, Cent is a great cho
 
 Cent is completely open source, and can be audited, or modified freely by anyone.
 
+# Disclaimer
+
+
+
 # Responsible, Reliable, Secure, Decentralized Reserves.
 
 All Cent Token reserves are fully decentralized and consist entirely of MakerDao DAI stablecoins.
@@ -50,21 +54,23 @@ Cent tokens can be purchased with Ethereum & over 40 major ERC20 tokens.
 Through the on-chain liquidity pool of the DeFi protocol, Kyber Network, Ethereum and ERC20 tokens used to purchase Cent Tokens are instantly converted into DAI.
 Tokens will be sent to purchaser, collected DAI will be sent to a transfer wallet, then to be stored on reserve wallets for and/or added onto DeFi exchanges/protocols such as UniSwap.
 
-# How does the Cent Token project and its developers/teams profit? | How is income used?
+# What is Cent Token's revenue model? | How is revenue used?
 
 Cent Token relies mainly on contributions from the community.
 
 Contributions include funding and participating/volunteering in our development and project growth community and bounties.
 
-For the most part, Cent Token is a not-for-profit project.
+Cent Token is a not-for-profit project.
+
+Cent Token generates funding by selling newly issued Cent Tokens at a rate of 1 Cent Token for 0.01 DAI.
 
 Minor income may be generated through protocols similar to UniSwap; as the Cent Token acts a major liquidity provider of DAI/Cent Token for trades involving Cent Token on UniSwap; and small percentage fees are rewarded to liquidity providers on UniSwap.
 
-On some warm wallet Cent Token reserves, a up to 1% compound interest is generated through compound integration. 
+Cent Token may also generate up to 1% interest on funds held in the segregated hot-wallet reserves.
 
-We do not profit from interest on the majority of our reserves, as most of our backing reserve wallets are kept offline and in cold-storage. (highlighted above).
+We do not mainly profit from interest on the majority of our reserves, as most of our backing reserve wallets are kept offline and in cold-storage (highlighted above), and interest is only generated on the minority of Cent Token's hot-wallet reserves.
 
-Cent Token uses generated revenue, and contributions of funding, towards rewarding contributors and community members, and towards maintaining/expanding the project.
+Cent Token uses generated revenue, and contributions of funding, towards rewarding contributors and community members for bounties, and towards maintaining/expanding the project.
 
 Some examples of how Cent Token's revenue is utilized are listed below:
 
