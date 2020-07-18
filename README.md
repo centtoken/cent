@@ -28,9 +28,8 @@ Cent Token reserves' assets are distributed geographically and organisationally.
 
 The majority (no less than 65%) of Cent Token reserves' private keys are held 100% offline through cold storage technology in bank-grade Class III vaults on an SOC 2 Type 2 certified platform.
 
-All Cent Token Reserves kept in offline Cold-Storage are entirely insured from:
+All Cent Token Reserves kept in offline Cold-Storage are placed under significantly greater protection from:
  - Third-party hacks, copying, or theft of private keys.
- - Insider theft or dishonest acts by BitGo employees or executives.
  - Loss of keys
  
  Non-Cold-Storage Reserves of Cent Token are managed securely and decentrally on warm wallets, ethereum smart contracts, and on DeFi protocols such as UniSwap.
