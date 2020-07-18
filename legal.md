@@ -1,3 +1,7 @@
+# Legal Information
+
+![](https://i.imgur.com/comIPd8.png)
+
 # Cent Token Risk Factors
 
 * The following list of risks associated with Cent Token is not exhaustive.
