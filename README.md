@@ -2,6 +2,8 @@
 
 ![](https://i.imgur.com/comIPd8.png)
 
+*Smart Contract of this token will be deployed by 08/01/2020
+
 # Cent (Token)
 
 Cent is a decentralized stablecoin with a real world value of 1¢, equivalent to 0.01 USD.
@@ -117,6 +119,8 @@ Our email address is CentToken@ProtonMail.com
 # Useful Links
 
 View our social media profiles, donation wallets, and more on our Lander page: https://landr.me/cent
+
+Cent Token Smart Contract: Not Deployed Yet (Will be Deployed by 08/01/2020)
 
 Cent Token Purchase Portal: Will be launched with token deployment.
 
