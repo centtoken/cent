@@ -47,7 +47,7 @@ Token type: Crypto-Collateralized Stablecoin
 
 Token Price: Priced at 0.01 DAI (0.01 USD)
 
-Maximum Token Supply: Equivalent to the total supply of DAI stablecoin.
+Maximum Token Supply: Equivalent to 100 times the maximum total supply of DAI.
 
 # Purchasing Cent Tokens | How DAI is sent to reserves and to DeFi protocols.
 
