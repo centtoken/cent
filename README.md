@@ -47,6 +47,8 @@ Token type: Crypto-Collateralized Stablecoin
 
 Token Price: Priced at 0.01 DAI (0.01 USD)
 
+Maximum Token Supply: Equivalent to the total supply of DAI stablecoin.
+
 # Purchasing Cent Tokens | How DAI is sent to reserves and to DeFi protocols.
 
 *Currently, the Cent Token contract, which includes the currency (Cent Token) and the purchase portal, has not been yet been deployed. Transaction fees needed to deploy, will be paid with contributions made through Cent Token's Gitcoin Grant, listed below, in the "Useful Links" section.
