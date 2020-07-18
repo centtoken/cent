@@ -119,6 +119,4 @@ Cent Token Purchase Portal: Will be launched with token deployment.
 
 Cent Token Website: Coming Soon
 
-Whitepaper: Being written; will be published soon.
-
 Contribute to this project via our Gitcoin Grant: https://gitcoin.co/grants/1003/cent-token-2
