@@ -46,10 +46,11 @@ Maximum Token Supply: Equivalent to 100 times the maximum total supply of DAI.
 
 # Purchasing Cent Tokens | How DAI is sent to reserves and to DeFi protocols.
 
-*Currently, the Cent Token contract, which includes the currency (Cent Token) and the purchase portal, has not been yet been deployed. Transaction fees needed to deploy, will be paid with contributions made through Cent Token's Gitcoin Grant, listed below, in the "Useful Links" section.
+Cent Token's purchase portal, where users can purchase newly issued tokens, is integrated with DeFi protocols such as Kyber Network.
 
-Cent tokens can be purchased with Ethereum & over 40 major ERC20 tokens.
-Through the on-chain liquidity pool of the DeFi protocol, Kyber Network, Ethereum and ERC20 tokens used to purchase Cent Tokens are instantly converted into DAI.
+This means CENT tokens can be purchased with Ethereum & over 40 major ERC20 tokens.
+
+Through the on-chain liquidity pool of the DeFi protocol, Kyber Swap, Ethereum and ERC20 tokens used to purchase Cent Tokens are instantly converted into DAI.
 Tokens will be sent to purchaser, collected DAI will be sent to a transfer wallet, then to be stored on reserve wallets for and/or added onto DeFi exchanges/protocols such as UniSwap.
 
 # What is Cent Token's revenue model? | How is revenue used?
@@ -60,21 +61,17 @@ Contributions include funding and participating/volunteering in our development 
 
 Cent Token is a not-for-profit project.
 
-Cent Token generates funding by selling newly issued Cent Tokens at a rate of 1 Cent Token for 0.01 DAI.
+Some revenue may be generated through protocols similar to UniSwap.
 
-Minor income may be generated through protocols similar to UniSwap; as the Cent Token acts a major liquidity provider of DAI/Cent Token for trades involving Cent Token on UniSwap; and small percentage fees are rewarded to liquidity providers on UniSwap.
-
-Cent Token may also generate up to 1% interest on funds held in the segregated hot-wallet reserves.
-
-We do not mainly profit from interest on the majority of our reserves, as most of our backing reserve wallets are kept offline and in cold-storage (highlighted above), and interest is only generated on the minority of Cent Token's hot-wallet reserves.
+Because Cent Token acts a major liquidity provider of the pair, DAI/CENT, for trades involving Cent Token on UniSwap, a small percentage of fees is rewarded to liquidity providers, including Cent Token, on UniSwap.
 
 Cent Token uses generated revenue, and contributions of funding, towards rewarding contributors and community members for bounties, and towards maintaining/expanding the project.
 
 Some examples of how Cent Token's revenue is utilized are listed below:
 
 - Funding bounties and bug-bounties.
-- Producing additional, strengthened reserve backing of Cent Tokens.
-- Paying for needed services/products to run the project. (Examples include: Insurance Costs, Cold-Storage Fees, Transaction Fees, Other Expenses).
+- Producing additional backing of Cent Tokens.
+- Expanding CENT as a project.
 
 
 # How do I contribute through donations?
@@ -101,7 +98,7 @@ Our email address is CentToken@ProtonMail.com
 
 # Recent Updates:
 
-- Token planned to be listed on UniSwap DeFi exchange after first token sales are made. (30% of backing DAI will be used as UniSwap liquidity).
+- Token planned to be listed on UniSwap DeFi exchange as soon as first token sales are made.
 - Gitcoin Grant has been listed! See "Useful Links" section.
 - Project ready for initial launch!
 - Estimated combined cost to deploy contract & launch token purchase portal: 0.04 ETH
