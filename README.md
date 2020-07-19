@@ -1,6 +1,6 @@
 # Overview
 
-![](https://i.imgur.com/comIPd8.png)
+![](https://i.imgur.com/eC1gPoW.jpg)
 
 *Smart Contract of this token will be deployed by 08/01/2020
 
