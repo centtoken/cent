@@ -1,6 +1,6 @@
 # Legal Information
 
-![](https://i.imgur.com/comIPd8.png)
+![](https://i.imgur.com/eC1gPoW.jpg)
 
 # Cent Token Risk Factors
 
@@ -61,7 +61,7 @@ CENT held in your wallet(s) are not subject to deposit insurance protection, inc
 
 Since CENT is entirely crypto-collateralized and is fully decentralized, it cannot be insured in such centralized methods described above.
 
-**Legal treatment of USDC transfers**
+**Legal treatment of CENT transfers**
 
 The regulatory status of CENT and blockchain technology is unclear or unsettled in many jurisdictions. 
 
