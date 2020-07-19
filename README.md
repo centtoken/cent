@@ -30,18 +30,9 @@ All Cent Token reserves are fully decentralized and consist entirely of MakerDao
 
 Cent Token reserves' assets are distributed geographically and organisationally.
 
-The majority (no less than 65%) of Cent Token reserves' private keys are held 100% offline through cold storage technology in bank-grade Class III vaults on an SOC 2 Type 2 certified platform.
+When a Cent Token is issued via purchase from the CENT purchase portal, liquidity is added to UniSwap.
 
-All Cent Token Reserves kept in offline Cold-Storage are placed under significantly greater protection from:
- - Third-party hacks, copying, or theft of private keys.
- - Loss of keys
- 
- Non-Cold-Storage Reserves of Cent Token are managed securely and decentrally on warm wallets, ethereum smart contracts, and on DeFi protocols such as UniSwap.
- 
- Non-Cold-Storage Reserves, highlighted above, include no more than 35% of total combined funds of all Cold & Warm/Hot storage reserves.
- 
- Non-Cold-Storage Reserves, like all Cent Token Reserves, are handled as securely as possible. 
- Unfortanately, warm wallets, especially hot wallets of DeFi protocols, may be more susceptible to exploit attacks; and cannot be insured against hacks nor theft. Although risks of loss are higher with hot wallets, damage potentials are minimized through decentralization, and through minimal internet exposure of funds (funds are added to UniSwap, and other protocols as needed).
+DeFi smart contracts and protocols, such as UniSwap, act as decentralized reserves which also provide instant redemption/exchange of Cent Tokens.
 
 # Token Specs
 
